@@ -1,1 +1,1 @@
-# litecoin-detached-sigs
+# fcash-detached-sigs
